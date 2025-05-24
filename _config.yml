@@ -25,7 +25,7 @@ author:
   name             : "Jesson Wang"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
-  location         : "China"
+  location         : #"China"
   employer         : "Wuhan University"
   uri              : # URL
   email            : "jessonwong1@gmail.com" 
