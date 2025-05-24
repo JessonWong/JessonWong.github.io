@@ -6,8 +6,8 @@ redirect_from:
   - /about.html
 ---
 
-Currently I'm a research intern advised by [Prof. David Wagner](https://people.eecs.berkeley.edu/~daw/).
-I'm a third year undergraduate student from [School of CS](https://cs.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/). My research interest includes robustness machine learning and AI safety.
+Currently I'm a research intern advised by Prof. [David Wagner](https://people.eecs.berkeley.edu/~daw/), working on security for large language models.
+I obtained my B.S. degree at [School of CS](https://cs.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/). My research interest includes robustness machine learning and AI safety.
 
 I am very fortunate to be advised by [Prof. QianZhang](https://www.cse.ust.hk/~qianzh/) from [School of Computer Science](https://cse.hkust.edu.hk/), Hong Kong University of Science and Technology. 
 
