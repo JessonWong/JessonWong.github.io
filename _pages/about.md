@@ -6,14 +6,13 @@ redirect_from:
   - /about.html
 ---
 
-Currently I'm a research intern advised by Prof. [David Wagner](https://people.eecs.berkeley.edu/~daw/), working on security for large language models.
+Currently I'm a research intern working on security for large language models at BAIR. I'm really fortunate to be advised by Prof. [David Wagner](https://people.eecs.berkeley.edu/~daw/) and Postdoc [Zhanhao Hu](https://whothu.github.io/).
 I obtained my B.S. degree at [School of CS](https://cs.whu.edu.cn/), [Wuhan University](https://www.whu.edu.cn/). My research interest includes robustness machine learning and AI safety.
 
-I am very fortunate to be advised by [Prof. QianZhang](https://www.cse.ust.hk/~qianzh/) from [School of Computer Science](https://cse.hkust.edu.hk/), Hong Kong University of Science and Technology. 
+Previously I worked with [Prof. QianZhang](https://www.cse.ust.hk/~qianzh/) from [School of Computer Science](https://cse.hkust.edu.hk/), Hong Kong University of Science and Technology. 
 
-You can find my CV here: [Jesson's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Jesson's Curriculum Vitae](../assets/jesson_cv.pdf).
 
-[Email](mailto:XX@stu.pku.edu.cn) / [Github](https://github.com/QiuDi233) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
 ————————————————
 
 A data-driven personal website
