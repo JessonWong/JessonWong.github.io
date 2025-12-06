@@ -5,6 +5,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I will be joining USC for the Master's in Computer Science program in Spring 2026.
 
 Currently I'm a research intern working on security for large language models at BAIR. I'm really fortunate to be advised by Prof. [David Wagner](https://people.eecs.berkeley.edu/~daw/) and Postdoc [Zhanhao Hu](https://whothu.github.io/).
 I obtained my B.S. degree at [School of Computer Science, Wuhan University](https://cs.whu.edu.cn/). My research interest includes robustness machine learning and AI safety.
